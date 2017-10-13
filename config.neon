@@ -1,0 +1,5 @@
+services:
+    - TestData\A
+    - TestData\B
+    - TestData\D
+    - TestData\E
