@@ -12,6 +12,6 @@
         "cee/simple-di": "1.0"
     },
     "autoload": {
-        "psr-4": {"TestData\\": "testData/"}
+        "classmap": ["testData/classes.php", "ModifiedSimpleDi.php"]
     }
 }
