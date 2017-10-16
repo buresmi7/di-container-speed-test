@@ -47,7 +47,7 @@ doTest('Simple DI with B', function () {
     createClassWithSimpleDi(TestData\B::class);
 });
 
-doTest('Simple DI with B', function () {
+doTest('Simple DI with E', function () {
     for ($i = 0; $i < ITER; $i++) {
         $container = new Cee\SimpleDi\Container();
         $container->setInterfaceImplementation(TestData\C::class, TestData\D::class);
