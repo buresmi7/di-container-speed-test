@@ -19,7 +19,7 @@ php test.php
  * Manual Instance with A / Time (seconds): 0.0011558532714844
  * Simple DI with A / Time (seconds): 0.011802911758423
  * Simple DI with B / Time (seconds): 0.031620025634766
- * Simple DI with B / Time (seconds): 0.089388132095337
+ * Simple DI with E / Time (seconds): 0.089388132095337
  * Nette DI first run with A / Time (seconds): 0.088018178939819
  * Nette DI with A / Time (seconds): 0.051923990249634
  * Nette DI with B / Time (seconds): 0.066601037979126
