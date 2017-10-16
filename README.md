@@ -1,6 +1,6 @@
 # di-container-speed-test
 
-Compare speed of Nette DIC and Simple DIC
+Compare speed of [Nette DIC](https://github.com/nette/di) and [Simple DIC](https://github.com/Travelport-Czech/SimpleDi)
 
 ## install
 
